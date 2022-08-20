@@ -30,7 +30,6 @@ for i in mycurson:
 from tkinter import *
 
 
-
 class atm:
     
     def __init__(self,win):
